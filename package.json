@@ -1,7 +1,7 @@
 {
   "name": "xhopie-server-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Xhopie's Server built in NodeJS with TypeScript",
   "main": "index.js",
   "author": {
     "name": "Manish Kumar Das",
