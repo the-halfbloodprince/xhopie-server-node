@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "author": {
+    "name": "Manish Kumar Das",
+    "email": "ammanishkumardas@gmail.com",
+    "url": "https://github.com/the-halfbloodprince"
+  },
   "scripts": {
     "build": "npx tsc",
     "start": "node dist/server.js",
     "dev": "nodemon server.ts"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
