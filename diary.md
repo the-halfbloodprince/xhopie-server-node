@@ -32,7 +32,7 @@ This file only outlines the progress in this repository. All it's submodules wil
     - TODO: This should be properly handled later instead of blatantly just throwing an error
     - also this makes the purpose of `EXAMPLE_HANDLING` obsolete, so it's been removed
 
-#### REFACTORING THE PROJECT'S FOLDER STRUCTURE
+#### Refactoring The Project's Folder Structure
 
 - added the `src` folder.
   - made corresponding updates in the `package.json` as well as `tsconfig.json`
