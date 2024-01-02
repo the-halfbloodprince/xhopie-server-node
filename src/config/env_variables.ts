@@ -13,5 +13,5 @@
 // ? reverting to use interface so that the ProcessEnv interface can automatically inherit it
 export default interface ENV_Variables {
   PORT: string;
-  EXAMPLE_VARIABLE: string;
+  HOST: string;
 }

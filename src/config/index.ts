@@ -10,5 +10,4 @@ if (result.error) {
 export const APP_CONFIG = {
   port: process.env.PORT || 8080,
   host: process.env.HOST || 'http://localhost',
-  example_variable: process.env.EXAMPLE_VARIABLE
 }
