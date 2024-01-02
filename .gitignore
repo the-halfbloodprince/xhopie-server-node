@@ -1,2 +1,9 @@
+# dependencies
 /node_modules
+
+# output files
 /dist
+
+# env files
+.env
+.env.local
