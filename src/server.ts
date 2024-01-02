@@ -8,5 +8,5 @@ app.get('/', (req: Request, res: Response) => {
 })
 
 app.listen(APP_CONFIG.port, () => {
-	console.log(`[SERVER INITIALIZED] Server up and running at ${APP_CONFIG.host}:${APP_CONFIG.port}, secret_msg: ${APP_CONFIG.example_variable}`)
+	console.log(`[SERVER INITIALIZED] Server up and running at ${APP_CONFIG.host}:${APP_CONFIG.port}`)
 })
