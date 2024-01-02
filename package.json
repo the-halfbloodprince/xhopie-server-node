@@ -2,7 +2,7 @@
   "name": "xhopie-server-node",
   "version": "1.0.0",
   "description": "Xhopie's Server built in NodeJS with TypeScript",
-  "main": "index.js",
+  "main": "src/server.ts",
   "author": {
     "name": "Manish Kumar Das",
     "email": "ammanishkumardas@gmail.com",
@@ -11,7 +11,7 @@
   "scripts": {
     "build": "npx tsc",
     "start": "node dist/server.js",
-    "dev": "nodemon server.ts"
+    "dev": "nodemon src/server.ts"
   },
   "keywords": [],
   "license": "ISC",
